@@ -13,3 +13,14 @@ Hogyan lehet a konzolra adatokat kiírni?
 	System.out.print("blabla=" + változoNeve)		sortörés nélküli kiírás
 Milyen probléma merülhet fel az egész szám beolvasásakor?
 	az első nem int karakter után állítja le, így a következő line beolvasás nem fog sikerülni 
+	
+	
+%%%%%% objektumok, attributomok 
+Mi a kapcsolat az osztály és példány között?
+	egymás szinonímái
+Mi az az attribútum?
+	az objektumban tárolt adatok 
+Mit értünk egy objektum állapota alatt?
+	az attributomok aktuális értékét 
+	
+	
