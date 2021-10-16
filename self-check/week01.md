@@ -5,10 +5,10 @@ a Java osztályokat fogjátok alapszinten megismerni.
 
 ## Eszközkészlet
 
-* [ ] [Java történeti háttér videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709755-java-torteneti-hatter)
-* [ ] [Oracle JDK telepítése videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/17495660-oracle-jdk-telepitese)
+* [X] [Java történeti háttér videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709755-java-torteneti-hatter)
+* [X] [Oracle JDK telepítése videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/17495660-oracle-jdk-telepitese)
 * [ ] Oracle JDK telepítése gyakorlati feladat
-* [ ] [Java platform videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709636-java-platform)
+* [X] [Java platform videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709636-java-platform)
 * [ ] Java platform gyakorlati feladat
 * [ ] [Maven videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709790-maven)
 * [ ] Maven gyakorlati feladat
