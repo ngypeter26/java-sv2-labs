@@ -1,0 +1,107 @@
+Milyen megoldások születtek a szoftverkrízisre?
+
+	programozási paradigmák bevezetése
+	objektumorientált programozás
+
+Kinek a nevéhez kötődik a Java programozási nyelv?
+	James Gosling
+Mely cég vett és vesz részt a Java fejlesztésében?
+	Sun 
+Milyen irányelveket vettek figyelembe a Java nyelv kialakításakor?
+	Egyszerű, könnyen tanulható és használható
+	Objektumorientált
+	Robusztus, azaz hibatűrő, az alkalmazás fejlesztője, vagy használója által vétett hiba ne befolyásolja a teljes alkalmazás működését, hanem kellően lokalizálható legyen
+	Biztonságos, hiszen az internetről letöltött tartalmakban nem mindig lehet megbízni
+	Architektúra-semleges, hordozható, azaz a megírt alkalmazás ugyanúgy fusson eltérő platformokon, mint Windows vagy Linux
+	Nagyteljesítményű
+	Interpretált, utasításonként végrehajtott
+	Többszálúságot nyelvi szinten támogassa
+	Dinamikus, azaz a futáshoz szükséges kódrészeket futás közben töltse be, mindig azt, amire szükség van
+Milyen Java implementációkat ismersz?
+	OpenJDK (hivatalos, ingyenes)
+	Oracle Java SE JDK (legelterjedtebb)
+	AdoptOpenJDK (ingyenes)
+Melyik a legfrissebb Java verzió?
+	Java SE 17 (LTS)
+	Várhatóak: 
+		Java SE 18	March 2022	
+		Java SE 19	September 2022	
+		Java SE 20	March 2023	
+		Java SE 21 (LTS)	September 202
+		
+%%%%%%%%%%%%%%%%%%%%
+		
+Hogyan történik a fejlesztési folyamat?
+	.java kiterjesztésű szövegszerű kód megírása szövegszerkesztőben, vagy egyéb alkalmazásban
+	fordítás .class kiterjesztésre javac paranccsal, vagy mással -> bájtkód létrehozása
+	futtatás java paranccsal Java Virual Machine-nel 
+Hogyan biztosítja a Java a platformfüggetlenséget?
+	Új platform módosítás nélkül értelmezi a bájtkódot, így az azon lévő JVM virtuális gép módosítás nélkül tud futtatni
+Milyen eszközök szükségesek Java fejlesztéshez?		
+	Szöveg vagy kódszerkesztő alkalmazás 
+	Fordítóprogram, pl. Oracle Java SE JDK
+	
+%%%%%	Maven 	%%%%%%%
+
+Mire használjuk a Maven-t?
+	build folyamatra szabványos eszköz -> .jar állomány létrehozása
+	szoftver projekt management és "comprehension"
+	kezeli a függőségeket (pl külső függőségek)
+	
+Tipikusan hogyan épül fel egy build folyamat?
+	(target könyvtár törlése)
+	(erőforrások másolása)
+	forrásállomány fordítás
+	többi erőforrás megfelelő hgelyre másolása 
+	tesztesetekhez szükséges erőforrás másolása 
+	tesztesetek fordítása
+	tesztesetek futtatása 
+	alkalmazás összecsomagolása -y .jar álllomány 
+Milyen alkönyvtárakat tartalmaz a projekt könyvtár?
+	src: források 
+	src\main\java 		-> java forráskódok 
+	src\main\resources 	-> további erőforrások
+	src\test\java 		-> tesztesetek
+	src\test\resources 	-> tesztesetek erőforrásai
+	
+Mi ír le egy projektet? Milyen elemek találhatók benne?	
+	pom.xml
+		részei: 
+			groupID: 		cégnév
+			artifactID		projekt név 
+			version 		verziószám
+			project build.sourceEncoding 	karakter kódolás
+
+			modelVersion	java verzió
+			compiler.source
+			compiler.target
+			
+			függőségek 
+			
+%%%%%%%  IDE    %%%%%		
+Milyen Java IDE-kről hallottál?
+	NetBeans				opensource, kezdő, Oracle -> Apache 
+	Eclipse 				opensource, haladó, Apache 
+	JetBrains IntelliJ IDEA JetBrains, JAVA, Community, Ultimate 	
+Miben segít nekünk az IDE?
+	Projekt létrehozása, mappa és fájlstruktúra létrehozása 
+	Maven kezelés 
+	Kódszerkesztés
+	Alkalmazás és a tesztesetek futtatása
+Mi a fejlesztés alapegysége, (a könyvtár, amiben a fájlok találhatóak)?
+	Project 
+Mondj néhány billentyűkombinációt!
+	ctrl + space 	kód kiegészítés 
+	ctrl + shift + space 	smart kód kiegégszítés 
+	alt + enter 	quick fit 
+	psvm + tab	
+	sout + tab
+	többi: help \ keymap reference 
+	
+%%%%%%%  GIT    %%%%%		
+Hogyan támogatja a fejlesztőeszköz a Git használatát?
+	beépítetten
+			
+			
+			
+	
