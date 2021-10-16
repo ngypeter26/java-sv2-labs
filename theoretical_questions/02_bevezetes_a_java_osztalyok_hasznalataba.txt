@@ -15,12 +15,35 @@ Milyen probléma merülhet fel az egész szám beolvasásakor?
 	az első nem int karakter után állítja le, így a következő line beolvasás nem fog sikerülni 
 	
 	
-%%%%%% objektumok, attributomok 
+%%%%%% 		objektumok, attributomok		 %%%%
 Mi a kapcsolat az osztály és példány között?
 	egymás szinonímái
 Mi az az attribútum?
 	az objektumban tárolt adatok 
 Mit értünk egy objektum állapota alatt?
 	az attributomok aktuális értékét 
+	
+%%%% 		metódusok  		%%%%%%
+Mi a feladata a metódusoknak?
+	utasítás végrehajtása
+Mihez férhetnek hozzá a metódusok?
+	attributomokhoz, lokális változókhoz, paraméterekhez 
+	alapértelmezetten egy csomagon belülihez
+	pbulik - nyílvános 
+	private - titkos 
+Milyen részei vannak a metódus deklarációjának?
+	név 
+	visszatérési érték (return blabla vagy void) 
+	típus
+Mik azok a getter és setter metódusok? Mi a nevük, paramétereik és visszatérési értékeik?
+	getter: attributum értékét lekérdezik 	
+			nincs paramétere, de egy karaktr lánccal tér vissza 
+			pl: getNameAndYearOfBirth()
+	setter: attributum értékét módosítják	
+			van paramétere (amire változtat), de nincs visszatérési értéke 
+			pl: setYearOfBirth(1980)
+
+
+
 	
 	
