@@ -10,7 +10,7 @@ a Java osztályokat fogjátok alapszinten megismerni.
 * [ ] Oracle JDK telepítése gyakorlati feladat
 * [X] [Java platform videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709636-java-platform)
 * [ ] Java platform gyakorlati feladat
-* [ ] [Maven videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709790-maven)
+* [X] [Maven videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709790-maven)
 * [ ] Maven gyakorlati feladat
 * [ ] [IDE videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709791-ide)
 * [ ] IDE videó gyakorlati feladat
