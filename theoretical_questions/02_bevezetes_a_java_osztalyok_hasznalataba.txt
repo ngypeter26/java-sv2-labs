@@ -1,0 +1,15 @@
+Mik a Java alkalmazások alapvető építőkövei?
+	osztályok
+Egy Java osztály mit tartalmazhat, amikben utasításokat lehet írni?
+	blokkok, ezekben vannak a metódusok
+Hogyan lehet konzolról adatokat bekérni? Melyik osztályra van ehhez szükségünk?
+	Scanner osztállyal
+	Scanner scanner = new Scanner(System.in); 	deklaráció, objektum példányosítás 
+Mivel a Scanner másik csomagban található, mit kell csinálni a használatához?
+	importálni: import java.util.Scanner;
+	IDEA-val automatikusan: ha piros aláhúzott -> alt+enter
+Hogyan lehet a konzolra adatokat kiírni?
+	System.out.println("blabla=" + változoNeve)		sortöéses kiírás + összefűzés, rövided sout
+	System.out.print("blabla=" + változoNeve)		sortörés nélküli kiírás
+Milyen probléma merülhet fel az egész szám beolvasásakor?
+	az első nem int karakter után állítja le, így a következő line beolvasás nem fog sikerülni 
