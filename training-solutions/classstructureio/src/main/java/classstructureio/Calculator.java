@@ -20,6 +20,5 @@ public class Calculator {
 
         System.out.println("Az összeadás eredménye: " + newLine + firstNumber + "+" + secondNumber + "=" + result );
 
-        System.out.println("AGRAWRAW ");
     }
 }
