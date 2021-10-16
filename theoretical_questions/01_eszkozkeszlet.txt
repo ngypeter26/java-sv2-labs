@@ -92,7 +92,7 @@ Mi a fejlesztés alapegysége, (a könyvtár, amiben a fájlok találhatóak)?
 	Project 
 Mondj néhány billentyűkombinációt!
 	ctrl + space 	kód kiegészítés 
-	ctrl + shift + space 	smart kód kiegégszítés 
+	ctrl + shift + space 	smart kód kiegészítés
 	alt + enter 	quick fit 
 	psvm + tab	
 	sout + tab
