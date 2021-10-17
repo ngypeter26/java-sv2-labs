@@ -43,6 +43,13 @@ Mik azok a getter és setter metódusok? Mi a nevük, paramétereik és visszat�
 			van paramétere (amire változtat), de nincs visszatérési értéke 
 			pl: setYearOfBirth(1980)
 
+%%%% 		konstruktorok  		%%%%%%
+Mi a konstruktor feladata?
+	inicializálás, kezdeti érték adás, ezzel a memória lefoglalása 
+Milyen megkötések vannak, amikor konstruktort készítesz?
+	nincs visszatérési értéke, neve megegyezik az osztály nevével
+Hogyan lehet az IDEA segítségével konstruktort létrehozni?
+	alt + insert utána construktor menüpont 
 
 
 	
