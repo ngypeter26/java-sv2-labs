@@ -51,6 +51,17 @@ Milyen megkötések vannak, amikor konstruktort készítesz?
 Hogyan lehet az IDEA segítségével konstruktort létrehozni?
 	alt + insert utána construktor menüpont 
 
-
+%%%% 		UML + írás olvasás   		%%%%%%
+Mi az UML?
+	Unified Modeling Language, szabványos általános célú modellező nyelv, amivel nagy rendszerek is jól vizualizálhatók
+	egységes jelölő nyelv
+Hogyan épül fel egy osztálydiagram?
+	Felül: osztály neve 
+	Középen: Attributomok : típus 
+	Alul: + metódusok 
+Milyen részekből áll egy osztály diagramelem?
+	név + típus
+	vonalak jelölik a kapcsolatokat
+	
 	
 	
