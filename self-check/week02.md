@@ -7,8 +7,8 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 
 * [X] [Kódolási konvenciók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709797-kodolasi-konvenciok)
 * [X] Kódolási konvenciók gyakorlati feladat
-* [ ] [Literálok és lokális változók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709851-literalok-es-lokalis-valtozok)
-* [ ] Literálok és lokális változók gyakorlati feladat
+* [X] [Literálok és lokális változók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709851-literalok-es-lokalis-valtozok)
+* [X] Literálok és lokális változók gyakorlati feladat
 * [ ] [Kifejezések és utasítások videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709849-kifejezesek-es-utasitasok)
 * [ ] Kifejezések és utasítások gyakorlati feladat
 * [ ] [Csomagok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709796-csomagok)

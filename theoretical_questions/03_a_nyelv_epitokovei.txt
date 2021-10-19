@@ -18,3 +18,24 @@ Milyen típusú megjegyzések vannak Java nyelvben?
 	sor: //
 	több sor: /*    */
 	javadoc: /**    */
+%%%%% literálok és lokális változók %%%%%%
+Mire valók a literálok?
+	önmagukban is van jelentése, ezekhez mindig implicit módon társul egy adattípus
+	nem nekünk kell megadni, hanem a “háttérben”, közvetetten történik meg
+Milyen literálokat ismersz és hogyan deklarálod őket?
+	logikai 	boolean
+	integer		egész szám
+	double 		lebegőpontos szám
+A hol definiált változókat nevezzük lokális változóknak?
+	metóduson belül 
+Szükséges-e típust definiálni? Milyen típusokat különböztetünk meg?
+	igen
+	int, double, booelean, string 
+Mi a lokális változó láthatósága?
+	deklarálástól az adott blokk végéig lehet használni
+Mi a kezdőértéke egy lokális változónak?
+	nincs automatikus kezdőértékük, ezért használatuk előtt mindig nekünk kell ezt megadni
+Mi az a szemétgyűjtő mechanizmus?
+	Egy objektum a létrehozásától (konstruktor hívása) addig létezik, amíg használjuk.
+	JVM automatikusan figyeli, meddig használjuk. Ezután a memóriából kitörli a nem használt objektumokat, ezáltal helyet szabadítva fel
+	
