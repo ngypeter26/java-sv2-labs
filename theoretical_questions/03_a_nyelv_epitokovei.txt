@@ -39,3 +39,26 @@ Mi az a szemétgyűjtő mechanizmus?
 	Egy objektum a létrehozásától (konstruktor hívása) addig létezik, amíg használjuk.
 	JVM automatikusan figyeli, meddig használjuk. Ezután a memóriából kitörli a nem használt objektumokat, ezáltal helyet szabadítva fel
 	
+%%%%% KIfejezések és utasítások %%%%%%%
+Mire valók a kifejezések?
+	operátorok és operandusok kombinációja, tipikusan egy érték kiszámítására 
+Írj fel néhány kifejezést!
+	boolean eq = 5 == 10;
+	int i = 2 + 3 * 5;
+	String name = trainer.getName();
+Milyen operátorokat ismersz?
+	matematikai			+,-,/,*,%
+	logikai 			!, &, | && || 
+	összehasonlító 		< > == 
+	példányosítás: 		new
+	értékadó: 			= 
+	léptető: 			++, --
+	összevont: 			+=, -=,  *=, /=, %=
+	három operandusú 	? : 
+	
+Java nyelven milyen utasításokat ismersz?	
+	változó deklaráció
+	értékadás
+	példányosítás
+	metódushívás
+	
