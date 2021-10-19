@@ -1,0 +1,20 @@
+%%%%% Kódolási konvekciók
+Mire valók a kódolási konvenciók?
+	együtt dolgozó fejlesztők hasonló formátumú kódot írjanak
+Hogyan nevezzük el az osztályokat, attribútumokat és metódusokat?
+	osztály: nagy kezdőbetű
+	konstruktor: ugyanaz a név
+	attributum, metódus: kis kezdőbetű, szavak határán nagy betűszavaknál
+	-> ne legyen ékezetes karakter
+	-> ne egyezzen kulcsszóval (pl while, do for, if)
+	-> ne legyen összekeverhető (pl string, integer)
+	
+Mire figyeljünk a betűszavaknál?
+	összetétel határán nagybetű
+	mozaikszó: első nagy, utána kicsi
+Milyen sorrendben következzenek egy osztályon belül a különböző tagok?
+	attributum, konstruktor, metódus
+Milyen típusú megjegyzések vannak Java nyelvben?
+	sor: //
+	több sor: /*    */
+	javadoc: /**    */
