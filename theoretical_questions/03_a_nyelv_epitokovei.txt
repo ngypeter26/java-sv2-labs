@@ -61,4 +61,20 @@ Java nyelven milyen utasításokat ismersz?
 	értékadás
 	példányosítás
 	metódushívás
+%%%%%% csomagok  %%%%%
+Mire használatosak a Java csomagok?
+	struktúrát ad a projektnek
+	névütközés feloldása 
+	láthatóság szabályozása
+Mi a csomag fizikai fájlrendszerbeli megfelelője?
+	könyvtárak
+Hogyan hozunk létre új csomagokat?
+	package kulcsszóval
+	domain név fordítva 
+Hogyan használunk más csomagban lévő osztályokat?
+	. -al elválasztva, pl java.util
+Hogyan kezeljük a névütközést?
+	egyik importálása, másik minősített névvel
+	mindkettő minősített névvel 
+
 	
