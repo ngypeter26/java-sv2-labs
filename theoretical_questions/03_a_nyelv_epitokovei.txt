@@ -76,5 +76,17 @@ Hogyan használunk más csomagban lévő osztályokat?
 Hogyan kezeljük a névütközést?
 	egyik importálása, másik minősített névvel
 	mindkettő minősített névvel 
-
+	
+%%%%      API     %%%%%%
+Mi az az osztálykönyvtár?
+	osztályok és típusok összessége
+Hogyan van az osztálykönyvtár szervezve?
+	csomagokba szervezve
+Hogyan kell elemeket felhasználni az osztálykönyvtárból?
+	
+Milyen esetekben nem kell import kulcsszót használni?
+	java.lang
+Hol található az osztálykönyvtár dokumentációja?
+	https://docs.oracle.com/javase/8/docs/api/ 
+	JDK telepítési könyvtárában: lib\src.zip
 	
