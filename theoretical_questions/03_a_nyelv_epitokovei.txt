@@ -169,3 +169,11 @@ Mire való a statikus now() metódus?
 	- az aktuális, processzoridőnek megfelelő idő definiálására
 Milyen pontossággal lehet az időt megadni?
 	- ezred másodperc 
+	
+%%%%%% Bevezetés a vezérlési szerkezetekbe     %%%%%
+Hogyan lehet feltételes utasítást Javaban létrehozni?
+	if-fel 
+	if (x < 2) {sout(kicsi)} else {sout(nagy)}
+Hogyan lehet ciklust használni Javaban?
+	for-ral 
+	for(int i = 0, i<10 , i++){sout(i)}

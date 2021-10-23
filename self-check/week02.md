@@ -23,8 +23,8 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [X] Sortörés kezelése gyakorlati feladat
 * [X] [Dátum és időkezelés alapok](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709798-datum-es-idokezeles-alapok)
 * [X] Dátum és időkezelés alapok gyakorlati feladat
-* [ ] [Bevezetés a vezérlési szerkezetekbe](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709782-bevezetes-a-vezerlesi-szerkezetekbe)
-* [ ] Bevezetés a vezérlési szerkezetekbe gyakorlati feladat
+* [X] [Bevezetés a vezérlési szerkezetekbe](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709782-bevezetes-a-vezerlesi-szerkezetekbe)
+* [X] Bevezetés a vezérlési szerkezetekbe gyakorlati feladat
 
 ## Bonyolultabb típusok
 
