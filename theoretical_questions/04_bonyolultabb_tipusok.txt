@@ -22,4 +22,11 @@ Hogyan járhatjuk be egy tömb elemeit?
 	for (int i = 0 ; i<fruits.length; i++){
 		sout(fruit[i])}
 		
-		
+%%%%% parancssori paraméterek    %%%%%
+Mire valók a parancssori paraméterek?
+	
+Hogyan kérhetjük le a parancssori paramétereket?
+	java TrainerMain John 1970 paranccsal lehet elindítani
+		 osztály 	 első  második paraméter
+Mire kell vigyázni a parancssori paraméterek használatakor?
+	melyek tartalmaznak szóköz karaktert, ezeket idézőjelek között kell megadni
