@@ -1,0 +1,25 @@
+%%%%%% tömbök    %%%%
+Hogyan definiálunk Javaban tömböt?
+	String [] fruits = new String[10]; 	inicializálás
+	
+	metódus  paramétereként: metódus(new int[] {1,2,3,4});	
+Hogyan férünk hozzá egy tömb eleméhez?
+	fruits[0] .... fruits[fruits.length-1]
+Hogyan kérjük le a tömb hosszát?
+	fruits.length
+Hogyan definiálunk tömb literált?
+	String [] fruits = {"apple", "peach", "plum"};
+Hogy lehet a tömb elemeit kiírni?
+	for ciklussal vagy for-ech ciklussal 
+Hogyan járhatjuk be egy tömb elemeit?
+	for-each ciklussal 
+	
+	for (String fruit: fruits){
+    System.out.println(fruit);
+	}
+	
+	for ciklussal
+	for (int i = 0 ; i<fruits.length; i++){
+		sout(fruit[i])}
+		
+		
