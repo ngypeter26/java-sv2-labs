@@ -128,3 +128,30 @@ Hogyan lehet egy String-et és egy primitív típust összekapcsolni?
 Hogyan lehet két String-et összehasonlítani?
 	String.equals(), 
 	pl. "abc".equals("abs")  -> true
+
+%%%% sortörés   %%%%
+Mit jelent az a fogalom, hogy “sortörés karakter”?
+	új sorban kezdődik utána a szöveg
+Hogyan használjuk különböző operációs rendszerek esetében?
+	Windows: CarriageReturns (kocsiVissza) \r + LineFeed (soremelés) \n  2bájt 
+	Linux:  LineFeed (soremelés) \n  1bájt 
+	metódus lehívása: System.lineSeparator()	
+Hogyan használjuk Javaban?
+	 "John Doe\n" + "Jack Doe\n" +
+Miben különbözik a System.out.println() és a System.out.print() metódus működése?
+	System.out.println() a szöveg után rak sörtörést automatikusan
+	System.out.print() ugyanonnan folytatja
+Hányféle módon érhetjük el, hogy sortörés legyen egy kiírandó szövegben?
+	1) külön System.out.println() -na rakjuk
+	2) \r\n a szövegek közé 	"John\r\nDoe"
+	3) csak\n a szövegek közé "John\nDoe"
+	4) konkatenálással: "John" + "\n" + "Doe"	
+	5) line spearator lekérése ("John" + System.lineSeparator() + "Doe"	
+Hogyan adhatunk meg Javaban sortörést operációs rendszer függetlenül?
+	line spearator lekérésével: 
+	System.lineSeparator()
+Milyen módokon tárolhatunk hosszú Stringeket?
+	 több sorban leírva és konkatenálva az egyes részeit
+	 pl: String names = "John Doe\n" +
+               "Jack Doe\n" +
+               "Jane Doe\n";
