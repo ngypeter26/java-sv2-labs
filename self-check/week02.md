@@ -21,8 +21,8 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [X] Szöveges típus gyakorlati feladat
 * [X] [Sortörés kezelése](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188842-sortores-kezelese)
 * [X] Sortörés kezelése gyakorlati feladat
-* [ ] [Dátum és időkezelés alapok](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709798-datum-es-idokezeles-alapok)
-* [ ] Dátum és időkezelés alapok gyakorlati feladat
+* [X] [Dátum és időkezelés alapok](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709798-datum-es-idokezeles-alapok)
+* [X] Dátum és időkezelés alapok gyakorlati feladat
 * [ ] [Bevezetés a vezérlési szerkezetekbe](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709782-bevezetes-a-vezerlesi-szerkezetekbe)
 * [ ] Bevezetés a vezérlési szerkezetekbe gyakorlati feladat
 

@@ -155,3 +155,17 @@ Milyen módokon tárolhatunk hosszú Stringeket?
 	 pl: String names = "John Doe\n" +
                "Jack Doe\n" +
                "Jane Doe\n";
+			   
+%%% Dátum és időkezelés 
+Mit tárol a LocalDateTime objektum?
+	- dátumot és időpontot ezred másodperc pontosan
+Hogyan lehet egy LocalDate vagy LocalDateTime objektumot létrehozni?
+		of kulcsszóval a new helyett 
+	- LocalDate from = LocalDateof(2020,10,23);
+	- LocalDateTime start = LocalDateTime(2020,Month.OCTOBER,10,12,30);
+	- LocalDateTime now = LocalDateTime.now();
+	
+Mire való a statikus now() metódus?
+	- az aktuális, processzoridőnek megfelelő idő definiálására
+Milyen pontossággal lehet az időt megadni?
+	- ezred másodperc 
