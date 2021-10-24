@@ -46,6 +46,4 @@ public class ArrayHandler {
             System.out.print(", ");
         }
     }
-
-
 }

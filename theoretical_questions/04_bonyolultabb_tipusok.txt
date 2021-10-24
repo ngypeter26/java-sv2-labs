@@ -30,3 +30,10 @@ Hogyan kérhetjük le a parancssori paramétereket?
 		 osztály 	 első  második paraméter
 Mire kell vigyázni a parancssori paraméterek használatakor?
 	melyek tartalmaznak szóköz karaktert, ezeket idézőjelek között kell megadni
+	
+%%%% tömbök tömbje   %%%%%
+Hogyan lehet Javaban többdimenziós tömbhöz hasonló struktúrát létrehozni?
+	tömbök tömbjeként, pl
+	int[][] numbers = new int[3][5];
+Hogyan lehet ezt literálként feltölteni?
+	int[][] numbers = {{1},{5,10},{3,2,1}}
