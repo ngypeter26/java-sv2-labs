@@ -57,3 +57,32 @@ Hogyan kell meghívni ezeket?
 	Arrays osztály segítségével : import java.util.Arrays;
 	Arrays.blalbla
 	
+%%%%% Lista   %%%%%%
+Mire való az ArrayList?
+	 azonos típusú elemek tárolására van, amelyek az indexükkel elérhetőek, de mérete nem fix, hanem dinamikusan változik a tartalommal együtt
+Hogyan kell definiálni?
+	List<String> fruits = new ArrayList<>();
+Mire használjuk a generikust?
+	típus megadásra
+Mi történik akkor, ha nem használunk generikust?
+	Ha a listába primitív értéket teszünk, az automatikusan becsomagolódik a burkoló osztályába, a kivett elemet pedig kezelhetjük primitívként, mert az automatikusan kicsomagolódik
+Milyen metódusait ismered?
+	add
+	void add(int index, E element)
+	int indexOf
+	boolean contains
+	boolean remove()
+	boolean removeAll()	
+	size	
+	E set 
+	get 
+Hogyan tudod bejárni az elemeit?
+	for ciklussal vagy for each ciklussal 
+		List<Integer> numbers = Arrays.asList(23, 41, 2, 7);
+		for (int i = 0; i < numbers.size(); i++){
+			System.out.println(numbers.get(i));
+		}
+
+		for (int item: numbers){
+			System.out.println(item);
+		}
