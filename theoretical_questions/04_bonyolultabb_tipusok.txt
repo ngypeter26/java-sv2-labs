@@ -86,3 +86,29 @@ Hogyan tudod bejárni az elemeit?
 		for (int item: numbers){
 			System.out.println(item);
 		}
+%%%%%   Lista létrehozása   %%%%% 
+Milyen különböző módokon hozhatunk létre listát?
+	a) példányosítás + feltöltés 
+		List<String> names = new ArrayList<>();
+        names.add("John");
+        names.add("Jack");
+        names.add("Jane");
+		
+	b) Egy utasítással  létrehozhatunk olyan listát, amely előre fel van töltve elemekkel:
+		List<String> names = Arrays.asList("John", "Jack", "Jane");
+
+	c) kombinált: 
+		List<String> names = new ArrayList(Arrays.asList("John", "Jack", "Jane"));
+
+Milyen utasítással hozhatunk létre módosítható listát?
+	példányosítás: new ArrayList<>()
+	List<String> names = new ArrayList<>();
+Milyen utasítással hozhatunk létre fix méretű listát?
+	Arrays.asList
+	List<String> names = Arrays.asList("John", "Jack", "Jane");
+
+Milyen tulajdonságaiban különbözik a módosítható lista a fix méretű listától?
+	A fix méretűhöz nem lehet plusz elemet adni, a mérete állandó
+Milyen utasítással hozhatunk létre olyan listát, amelyben vannak előre megadott elemek, úgy, hogy később is módosíthassuk őket?
+	new ArrayList (Arrays.asList(faefewaaewffaweafwe))
+	List<String> names = new ArrayList(Arrays.asList("John", "Jack", "Jane"));
