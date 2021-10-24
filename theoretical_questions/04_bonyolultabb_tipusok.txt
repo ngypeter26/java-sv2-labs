@@ -37,3 +37,23 @@ Hogyan lehet Javaban többdimenziós tömbhöz hasonló struktúrát létrehozni
 	int[][] numbers = new int[3][5];
 Hogyan lehet ezt literálként feltölteni?
 	int[][] numbers = {{1},{5,10},{3,2,1}}
+	
+%%% tömbök kezelése    %%%%%
+Mire való az Arrays osztály?
+	Ez az osztály különböző metódusokat tartalmaz a tömbök manipulálására (például rendezés és keresés). Ez az osztály tartalmaz egy statikus gyárat is, amely lehetővé teszi a tömbök listaként való megjelenítését.
+	
+	statikus metódusok gyüjteménye
+Milyen metódusai vannak?
+	String toString() kiírja a tömb elemeit szövegesen 
+	asList() 	tömb listává alakítja
+	String deepToString() tömb tömbjének elemeit írja ki 
+	boolean equals()		eldönti, h egyeznek-e
+	boolean deepEquals()	
+	void sort() 		sorrendbe rendezi 
+	T[] copyOf() másolja az adott indexig
+	T[] copyOfRange() 		indexek közötti részt másolja 
+	
+Hogyan kell meghívni ezeket?
+	Arrays osztály segítségével : import java.util.Arrays;
+	Arrays.blalbla
+	
