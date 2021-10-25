@@ -1,0 +1,13 @@
+%%%%%%  Objektumok   %%%%%
+Mi a különbség az osztály és a példány között?
+	osztály a tervrajz, objektum a megvalósulás 
+Mit jelent a példányosítás?
+	Az osztály példányosításával létrejon az objektum, lefoglalja  a memóriát
+Mi a különbség az objektum és a példány között?
+	semmi? 
+Milyen értéke lehet egy osztály típusú változónak?
+	egy metóduson belül lokális, de lehet más osztályban attribútum
+Mit jelent osztály típusú változó esetén az értékadás?
+	beírja a memóriába 
+	
+	
