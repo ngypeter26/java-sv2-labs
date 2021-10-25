@@ -48,8 +48,8 @@ a bonyolultabb típusokat fogjátok alapszinten megismerni.
 * [X] Debug gyakorlati feladat
 * [X] [Konstans értékek használata](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709785-konstans-ertekek-hasznalata)
 * [x] Konstans értékek használata gyakorlati feladat
-* [ ] [Math és Random osztály](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709760-math-es-random-osztaly)
-* [ ] Math és Random osztály gyakorlati feladat
+* [X] [Math és Random osztály](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709760-math-es-random-osztaly)
+* [X] Math és Random osztály gyakorlati feladat
 
 ## Konzultációk
 
