@@ -21,6 +21,7 @@ public class Students {
             }
             else{
                 output = false;
+                //return false; -> így is működik
             }
         }
         return output;
