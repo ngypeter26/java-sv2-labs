@@ -10,4 +10,20 @@ Milyen értéke lehet egy osztály típusú változónak?
 Mit jelent osztály típusú változó esetén az értékadás?
 	beírja a memóriába 
 	
+%%%%% attributomok    %%%%%
+Mire valók az attribútumok?
+	objektum állapotának tárolására
+Hogyan deklarálod az attribútumokat?
+	public final String name;
+	láthatóság módosító, egyéb módosító, típus, név
+Milyen láthatósági módosítókkal rendelkezhet?
+	public -nyílvános
+	private 	titkos
+	protected 	
+	default / package 
+Mi az alapértelmezett értékük?
+	package 	csomgaon belül látható 
+Meddig lehet hozzáférni?	
+	amíg az objektum él, ha az objektumot sokáig nem használjuk, törlés 
+	
 	
