@@ -17,8 +17,8 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 * [X] Referenciák gyakorlati feladat
 * [X] [Kompozíció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188876-kompozicio)
 * [X] Kompozíció gyakorlati feladat
-* [ ] [Kompozíció listával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188892-kompozicio-listaval)
-* [ ] Kompozíció listával gyakorlati feladat
+* [X] [Kompozíció listával videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28188892-kompozicio-listaval)
+* [X] Kompozíció listával gyakorlati feladat
 
 ## Típusok és operátorok
 
