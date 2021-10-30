@@ -45,3 +45,41 @@ Mi az a bináris számrendszer?
 Mit jelent a kettes komplemens számábrázolás?
 	negatív szám kompementerét ábrázolja, pl -5: 111111111010
 	
+/// karakterek /////
+Mit jelent a “karakterkódolás” szó?
+	Melyik karakterhez melyik szám társul 
+Mi a Unicode szabvány?
+	különböző írásrendszerek egységes kódolását és használatát teszi lehetővé
+	Segítségével nagyon sokféle nyelv leírására szolgáló speciális karakterek is ábrázolhatóak
+Hogyan kell megadnunk Javaban a karaktereket?
+	aposztrófok között:  'a'
+Hogyan kaphatjuk meg a karakterek számértékét?
+	konverzióval: (int) 'a'
+Milyen műveletek végezhetőek karakterekkel?
+	matematika műveletek
+	char c = 'a';
+	char d = (char)(c + 1); // b
+Hogyan nézhetjük meg, hogy egy karakter betű-e?
+	System.out.println('a' <= c && c <= 'z'); // Kisbetű
+	Character.isAlphabetic(c)
+
+Hogyan nézhetjük meg, hogy egy karakter számjegy-e?
+	System.out.println('0' <= c && c <= '9'); // Számjegy
+	Character.isDigit(c)
+	
+Milyen beépített metódusok vannak Javaban karakterek vizsgálatára?
+	Character.isWhitespace(c)
+	Character.isDigit(c)
+	Character.isAlphabetic(c)
+Milyen metódussal kérhetjük le egy String adott indexű elemét?
+	s.charAt(0)
+Hogyan kérhetjük le a String mögött álló karaktertömböt?
+	s.toCharArray()[0]
+	for (char c: s.toCharArray()) {
+    System.out.println(c);
+    System.out.println(Character.isAlphabetic(c));
+	}
+Hogyan készíthetünk egy karaktertömbből Stringet?
+	char[] chars = {'a', 'b', 'c'};
+	String s = new String(chars);
+	System.out.println(s); // abc
