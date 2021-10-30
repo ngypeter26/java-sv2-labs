@@ -1,0 +1,27 @@
+// literálok //
+Milyen objektumliterált ismersz?
+	null
+Amennyiben leírsz egy egész számot, annak mi a típusa? Hogyan lehet ezt módosítani?
+	int 
+	lehet long pl így : 10L
+Milyen számrendszerben lehet megadni egész számokat?
+	bináris, oktális, decimális, hexadecimális 
+Hogyan lehet a sok számjegyből álló számokat olvashatóbbá tenni?
+	_-al, pl 1_000_000_000
+Lebegőpontos számoknál hogyan lehet exponenst megadni?
+	12300 -> 1.23e4
+Ha leírsz egy lebegőpontos számot, mi a típusa? Hogyan lehet módosítani?
+	double, 12.3F 	 float lessz 
+	vagy 2D 
+Hogyan ábrázolja a JVM a karaktereket?
+	hexadecimális vagy oktális kódként 
+	megadás: '\u0667'  	unicode kód
+Hogyan szerepelnek a karakterek a forráskódban? Hogyan lehet ezt Maven pom.xml állományában beállítani?
+	 UTF-8, a pom.xml 
+Milyen speciális karaktereket ismersz?
+	sortörés '\n'
+	idézőjel '\"'
+	perjel '\\'
+Hogyan adsz meg osztályt reprezentáló literált?
+	.class végződéssel 
+	String.class 
