@@ -26,4 +26,22 @@ Hogyan adsz meg osztályt reprezentáló literált?
 	.class végződéssel 
 	String.class 
 	
+// egyszerű típusok //
+Milyen primitív típusokat ismersz?
+	boolean 	8bit
+	char 		16bit
+	byte 		8bit
+	short 		16bit
+	int 		32 bit 
+	long 		64 bit 
+	float 		32bit
+	double 		64 bit 
+	
+Hány biten vannak ábrázolva?
+Mit jelent a csomagoló típus?
+	az értéket és az ezen dolgozó metódusokat tárolja 
+Mi az a bináris számrendszer?
+	2es alapú 
+Mit jelent a kettes komplemens számábrázolás?
+	negatív szám kompementerét ábrázolja, pl -5: 111111111010
 	
