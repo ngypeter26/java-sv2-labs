@@ -83,3 +83,29 @@ Hogyan készíthetünk egy karaktertömbből Stringet?
 	char[] chars = {'a', 'b', 'c'};
 	String s = new String(chars);
 	System.out.println(s); // abc
+
+// felsorfolás típus
+Mire használjuk a felsorolásos típusokat?
+    osztály: van attribuztuma, metódusa, konstruktora
+    csak az enum kulcsszóval hozzuk létre
+    konstuktor privát
+    egyszer lehet értéket adni neki
+     Az elemek között sorrendiség definiált, így index alapján is elérhetőek
+Hogyan lehet definiálni a felsorolásos típusokat?
+    public enum Coin {
+        TWOHUNDRED, HUNDRED, TWENTY, TEN, FIVE
+    }
+Milyen hasznos metódusokat ismersz velük kapcsolatban?
+    values()
+        Coin[] coins = Coin.values();
+         összes enum értéket tartalmazó tömböt ad vissza
+    valueOf()   Coin c = Coin.valueOf("HUNDRED"); //Coin.HUNDRED
+        String alapján lehet lekérni a felsorolásos típus egy elemét
+    name()
+         Coin c = Coin.HUNDRED;
+         String nameOfCoin = c.name(); //"HUNDRED"
+         enum értékből szeretnénk String-et kapni
+   ordinal()
+           Coin c = Coin.HUNDRED;
+           int index = c.ordinal(); //1
+           visszaadja az adott elem sorszámát
