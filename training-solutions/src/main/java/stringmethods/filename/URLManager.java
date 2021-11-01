@@ -33,7 +33,7 @@ public class URLManager {
     public Integer getPortFromURL(String url){
         url = url.trim();
         if ( url.lastIndexOf(":") == url.indexOf(":")){ // nincs benne port
-           return
+           return 10;
         }else{
             int startIndex = url.lastIndexOf(":");
             int endIndex = url.lastIndexOf("/");
