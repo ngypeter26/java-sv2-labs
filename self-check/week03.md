@@ -37,7 +37,7 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 * [X] Egész és lebegőpontos számok gyakorlati feladat
 * [X] [Típuskonverzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709762-tipuskonverzio)
 * [X] Típuskonverzió gyakorlati feladat
-* X] [Konverziók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993726-konverziok)
+* [X] [Konverziók videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/27993726-konverziok)
 * [X] Konverziók gyakorlati feladat
 
 ## Részletesen a szöveges típusról
@@ -53,8 +53,8 @@ a típusokról, az operátorokról, valamint a szöveges típusról.
 * [X] Szövegek elválasztása vesszővel gyakorlati feladat [(Szöveges anyag itt)](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/texts/28335421-szovegek-elvalasztasa-vesszovel)
 * [X] [Scanner videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710394-scanner)
 * [X] Scanner gyakorlati feladat
-* [ ] [Szöveg formázása printf-fel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710510-szoveg-formazasa-printf-fel)
-* [ ] Szöveg formázása printf-fel gyakorlati feladat
+* [X] [Szöveg formázása printf-fel videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10710510-szoveg-formazasa-printf-fel)
+* [X] Szöveg formázása printf-fel gyakorlati feladat
 
 ## Konzultációk
 
