@@ -1,0 +1,31 @@
+//// Unit tesztelés JUnit 4 használatával   ////
+Mire való a JUnit keretrendszer?
+	egységek (osztályok) tesztelésére 
+Tipikusan hogyan épül fel egy teszteset?
+	Given: adott állapot 
+	When	meghívunk rajta egy metódust 
+	Then 	az történik-e amit vártunk (pl objektrumállapota, visszatérési értékek)
+Hogyan támogatja a JUnit-ot a Maven?
+	Mavenben a tesztek az src/test/java mappában találhatóak, ezen belül pedig a tesztelendő osztálynak megfelelő csomagban
+Hogyan támogatja a JUnit-ot az IDE?
+
+Példa teszt: 
+import org.junit.Test;
+import static org.hamcrest.CoreMatchers.equalTo;
+import static org.junit.Assert.assertThat;
+
+public class TrainerTest {
+    @Test
+    public void testCreate() {
+        //Given
+        Trainer trainer = new Trainer("John Doe");
+
+        //When
+        String name = trainer.getName();
+
+        //Then
+       assertThat(name, equalTo("John Doe"));
+
+    }
+}
+<scope>compile </scope>			ez volt a pom.xml
