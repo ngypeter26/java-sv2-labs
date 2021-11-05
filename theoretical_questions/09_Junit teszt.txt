@@ -29,3 +29,14 @@ public class TrainerTest {
     }
 }
 <scope>compile </scope>			ez volt a pom.xml
+
+/// Junit 5 ///
+Mik a tesztosztályokra vonatkozó megkötések és a konvenciók?
+	Maven src/test/csomagnév/hasonló név 
+Milyen annotációt szükséges a tesztesetekre tenni és miért?
+	@Test org.junit.jupiter/api csomagból 
+Mi a neve annak a metódusnak, amellyel az egyezést vizsgáljuk?
+	assertXXX 
+	assertEquals
+Milyen két paramétert kell, hogy kapjon ez a metódus?
+	először elvárt, majd aktuális érték 
