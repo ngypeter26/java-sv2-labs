@@ -40,3 +40,25 @@ Mi a neve annak a metódusnak, amellyel az egyezést vizsgáljuk?
 	assertEquals
 Milyen két paramétert kell, hogy kapjon ez a metódus?
 	először elvárt, majd aktuális érték 
+/// Junit 5 metódusai   /////
+Sorold föl a JUnit különböző assert metódusait és azt, hogy melyik mire használható!
+	assertEquals() - Primitívek esetén ez az értéküket hasonlítja össze, objektumok esetén pedig az állapotukat.
+	assertNull() és assertNotNull() - Azt vizsgálja, hogy a paraméterként átadott változó értéke null-e vagy sem.
+	assertNotEquals() - Az assertEquals() ellentéte, a paraméterként átadott két érték különbözőségét vizsgálja.
+	assertSame() és assertNotSame() - Az objektumok referenciáját hasonlítja össze, vagyis azt vizsgálja, hogy két változó ugyanarra az objektumra mutat-e.
+	assertTrue() és assertFalse() - Ezeknek a metódusoknak egy logikai értéket kell átadni, és ha az igaz (true) vagy hamis (false), akkor a teszteset sikeresen lefut. Helyettük érdemes az assertEquals()-t használni, ugyanis sokkal olvashatóbb lesz azzal a teszteset.
+	assertArrayEquals() - Tömbök összehasonlítására. A paraméterként átadott két tömb elemeit egyenként hasonlítja össze, és csak pontos egyezés esetén fut le sikeresen a teszteset.
+Melyik a JUnit leggyakrabban használt assert metódusa?
+	assertEquals
+Melyik a JUnit null értékek vizsgálatára használható metódusa?
+	assertNull assertNotNull
+Melyik a JUnit azon metódusa, amely két érték különbözőségét vizsgálja?
+	assertNotEquals
+Melyek a JUnit azon metódusai, amelyek minden esetben az objektumok referenciáját hasonlítják össze?
+	assertSame
+Melyek a JUnit logikai értékek vizsgálatára használható metódusai?
+	assertTrue, assertFalse
+A JUnit melyik metódusa használható tömbök összehasonlítására?
+	assertArrayEquals
+Miért van az assertEquals() metódusnak egy három paraméteres változata is?
+	lebegőpontos számok összehasonlítására 
