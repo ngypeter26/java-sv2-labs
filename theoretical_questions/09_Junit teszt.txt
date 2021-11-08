@@ -1,4 +1,4 @@
-//// Unit tesztelés JUnit 4 használatával   ////
+//// 1) Unit tesztelés JUnit 4 használatával   ////
 Mire való a JUnit keretrendszer?
 	egységek (osztályok) tesztelésére 
 Tipikusan hogyan épül fel egy teszteset?
@@ -30,7 +30,7 @@ public class TrainerTest {
 }
 <scope>compile </scope>			ez volt a pom.xml
 
-/// Junit 5 ///
+///2  Junit 5 ///
 Mik a tesztosztályokra vonatkozó megkötések és a konvenciók?
 	Maven src/test/csomagnév/hasonló név 
 Milyen annotációt szükséges a tesztesetekre tenni és miért?
@@ -40,7 +40,7 @@ Mi a neve annak a metódusnak, amellyel az egyezést vizsgáljuk?
 	assertEquals
 Milyen két paramétert kell, hogy kapjon ez a metódus?
 	először elvárt, majd aktuális érték 
-/// Junit 5 metódusai   /////
+/// 3 Junit 5 metódusai   /////
 Sorold föl a JUnit különböző assert metódusait és azt, hogy melyik mire használható!
 	assertEquals() - Primitívek esetén ez az értéküket hasonlítja össze, objektumok esetén pedig az állapotukat.
 	assertNull() és assertNotNull() - Azt vizsgálja, hogy a paraméterként átadott változó értéke null-e vagy sem.
@@ -62,3 +62,9 @@ A JUnit melyik metódusa használható tömbök összehasonlítására?
 	assertArrayEquals
 Miért van az assertEquals() metódusnak egy három paraméteres változata is?
 	lebegőpontos számok összehasonlítására 
+	
+/// 4 TESZTESETEK ÉLETCIKLUSA ////	
+Milyen lehetőségünk van, ha egy tesztosztályban bizonyos kódrészletek sokszor ismétlődnek?
+	@beforeEach , @aftereach
+Milyen sorrendben futtatja a JUnit az egyes tesztmetódusokat?
+	először a beforeEacg, utána a tesztmetódus, végül az aftereach 

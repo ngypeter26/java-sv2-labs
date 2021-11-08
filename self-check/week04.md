@@ -10,13 +10,13 @@ fogtok tanulni a vezérlési szerkezetekről.
 * [X] JUnit 5 gyakorlati feladat
 * [X] [JUnit 5 assert metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177547-junit-5-assert-metodusok)
 * [X] JUnit 5 assert metódusok gyakorlati feladat
-* [ ] [JUnit 5 tesztesetek életciklusa videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177579-junit-5-tesztesetek-eletciklusa)
-* [ ] JUnit 5 tesztesetek életciklusa gyakorlati feladat  
+* [X] [JUnit 5 tesztesetek életciklusa videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/28177579-junit-5-tesztesetek-eletciklusa)
+* [X] JUnit 5 tesztesetek életciklusa gyakorlati feladat  
 
 ## Vezérlési szerkezetek
 
-* [ ] [Vezérlési szerkezetek és az elágazás videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709847-vezerlesi-szerkezetek-es-az-elagazas)
-* [ ] Vezérlési szerkezetek és az elágazás gyakorlati feladat
+* [X] [Vezérlési szerkezetek és az elágazás videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709847-vezerlesi-szerkezetek-es-az-elagazas)
+* [X] Vezérlési szerkezetek és az elágazás gyakorlati feladat
 * [ ] [Ciklusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709839-ciklusok)
 * [ ] Ciklusok gyakorlati feladat
 * [ ] [Haladó vezérlési szerkezetek videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/10709794-halado-vezerlesi-szerkezetek)

@@ -1,0 +1,9 @@
+/// 10.1. vezérlési szerkezetek 
+Milyen vezérlési szerkezeteket ismersz elágazásra?
+	szelekció : if, switch
+Hogyan lehet az else ágakat összefűzni?
+	if else 
+Mikor kell használni a break utasítást?
+	switch-nél, ha nem akarom végig futtatni
+	if-nél (for), ha ki akarok lépni 
+	
