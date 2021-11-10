@@ -7,3 +7,20 @@ Mikor kell használni a break utasítást?
 	switch-nél, ha nem akarom végig futtatni
 	if-nél (for), ha ki akarok lépni 
 	
+	
+// 10.2. Ciklusok
+Milyen ciklusszervező utasításokat ismersz Javaban?
+	for while 
+Mi ezek között a különbség?
+	addot számszor fut le
+	addig fut, amíg a feltéel igaz
+Melyik ciklusszervező utasítással hogyan lehet végtelen ciklust képezni?
+	while, pl while(i<10){sout(i)}
+Milyen részekből áll a for ciklus feje?
+	inicializálás, feltétel, léptetés
+Milyen részekből áll a for-each ciklus feje?
+	léptető deklaráció, értékkészlet
+A for ciklus fejében deklarált változó látszik-e a ciklus utáni utasításban?
+	nem 
+Mely ciklusszervező utasítást használjuk tömb vagy kollekció elemeinek bejárására?
+	for , így for each ciklust írunk 
