@@ -1,0 +1,31 @@
+XI. Bevezetés a kivétel- és fájlkezelésbe 
+//// első kivétel ////
+Mit jelent az, hogy kivétel?
+	előre nem várt működés
+Mikor történik kivételes lefutás?
+	amikor olyan eset van, amire nem számítottunk
+Mit jelent az, hogy “happy path”?
+	amikor olyan eset van, amire  számítottunk
+Mondj néhány példát arra, amikor kivétel keletkezhet!
+	0-val osztás
+	kifut a tömb indexből
+	szöveg -> szám konverzió
+Mit jelent a legegyszerűbb kivételkezelés?
+	program leáll
+Mit jelent az, hogy stacktrace?
+	a hibakód, ami alapján vissza lehet követni az okot
+Hogyan érdemes olvasni a stacktrace-t?
+	első sor adja a kivételt 
+	utána alulról felfelé 
+	
+/// 2. további kivételek 
+Mikor kaphatunk ArithmeticException-t?
+	0-val osztás
+Mikor kaphatunk NullPointerException-t?
+	null értékű osztály metódusát hívom meg 
+Mikor kaphatunk ArrayIndexOutOfBoundsException-t?
+	ha rossz indexre hivatkozok
+Mikor kaphatunk UnsupportedOperationException-t?
+	ha fix méretű vagy módosíthatatlan listát akarok módosítani
+Mikor kaphatunk ConcurrentModificationException-t?	
+	ha bejárás során akarok törölni elemet
