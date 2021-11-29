@@ -17,13 +17,13 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 * [X] Szűrés gyakorlati feladat
 * [X] [Transzformáció videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/18066933-transzformacio)
 * [X] Transzformáció gyakorlati feladat
-* [ ] [Rekurzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980676-rekurzio)
-* [ ] Rekurzió gyakorlati feladat
+* [X] [Rekurzió videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/16980676-rekurzio)
+* [X] Rekurzió gyakorlati feladat
 
 ## Attribútumok és metódusok
 
-* [ ] [Immutable objektumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525738-immutable-objektumok)
-* [ ] Immutable objektumok gyakorlati feladat
+* [X] [Immutable objektumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525738-immutable-objektumok)
+* [X] Immutable objektumok gyakorlati feladat
 * [ ] [JavaBeans objektumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525757-javabeans-objektumok)
 * [ ] JavaBeans objektumok gyakorlati feladat
 * [ ] [Metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525772-metodusok)
