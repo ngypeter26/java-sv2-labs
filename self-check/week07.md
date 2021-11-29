@@ -26,8 +26,8 @@ Ezen a héten nagyrészt ismétlés következik, néhány újabb ismerettel: a p
 * [X] Immutable objektumok gyakorlati feladat
 * [X] [JavaBeans objektumok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525757-javabeans-objektumok)
 * [X] JavaBeans objektumok gyakorlati feladat
-* [ ] [Metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525772-metodusok)
-* [ ] Metódusok gyakorlati feladat
+* [X] [Metódusok videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525772-metodusok)
+* [X] Metódusok gyakorlati feladat
 * [ ] [Értékmásolás szerinti paraméterátadás videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525776-ertekmasolas-szerinti-parameteratadas)
 * [ ] Értékmásolás szerinti paraméterátadás gyakorlati feladat
 * [ ] [Metódus paraméterek és visszatérési értékek videó](https://e-learning.training360.com/courses/take/java-se-alapok-java-nyelvi-elemek/lessons/29525904-metodus-parameterek-es-visszateresi-ertekek)
