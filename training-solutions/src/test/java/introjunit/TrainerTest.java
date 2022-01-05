@@ -10,7 +10,7 @@
 //    @Test
 //    public void testCreate(){
 //        // Given
-//        Trainer trainer = new Trainer("John Doe");
+//        interfaces.video.Trainer trainer = new interfaces.video.Trainer("John Doe");
 //
 //        // when
 //        String name = trainer.getName();
@@ -20,11 +20,11 @@
 //    }
 //    @Test
 //    public void testCreate2(){
-//        assertThat(new Trainer("John Doe").getName(),equalTo("John Doe"));
+//        assertThat(new interfaces.video.Trainer("John Doe").getName(),equalTo("John Doe"));
 //    }
 //
 //    @Test
 //    public void testUpperCase(){
-//        assertThat(new Trainer("John Doe").getNameUpperCase(),equalTo("JOHN DOE"));
+//        assertThat(new interfaces.video.Trainer("John Doe").getNameUpperCase(),equalTo("JOHN DOE"));
 //    }
 //}

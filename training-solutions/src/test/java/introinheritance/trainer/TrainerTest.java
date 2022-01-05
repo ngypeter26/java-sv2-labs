@@ -7,7 +7,7 @@ public class TrainerTest {
     @Test
     void testCreate(){
         Trainer trainer = new Trainer();
-        trainer.getAge(); // pedig üres a Trainer osztály
+        trainer.getAge(); // pedig üres a interfaces.video.Trainer osztály
         trainer.getCourses();
 
         Human human = new Trainer();

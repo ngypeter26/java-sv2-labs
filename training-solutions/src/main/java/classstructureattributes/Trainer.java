@@ -6,7 +6,7 @@ public class Trainer {
     int yearOfBirth;
 
     //public static void main(String[] args) {
-    //    Trainer trainer = new Trainer();
+    //    interfaces.video.Trainer trainer = new interfaces.video.Trainer();
     //    trainer.name = "jhn doe";
     //    System.out.println(trainer.name);
     //}

@@ -21,10 +21,10 @@ public class TrainerTest {
 
 //    @Test
 //    public void testCreate2(){
-//        assertEquals(0,Trainer.numberOFTrainers);
+//        assertEquals(0,interfaces.video.Trainer.numberOFTrainers);
 //
-//        Trainer t = new Trainer("John Doe");
-//        assertEquals(1,Trainer.numberOFTrainers);// ha teljet futtatod, akkor ezzel kezd, így 0 lesz, vigyázni kell!!
+//        interfaces.video.Trainer t = new interfaces.video.Trainer("John Doe");
+//        assertEquals(1,interfaces.video.Trainer.numberOFTrainers);// ha teljet futtatod, akkor ezzel kezd, így 0 lesz, vigyázni kell!!
 //    }
 
     @Test

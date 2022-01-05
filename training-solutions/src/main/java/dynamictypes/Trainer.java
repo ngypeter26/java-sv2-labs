@@ -11,7 +11,7 @@ public class Trainer extends Human {
 
     @Override
     public String getDescription(){
-        return "Trainer: " + getName();
+        return "interfaces.video.Trainer: " + getName();
     }
 
 }

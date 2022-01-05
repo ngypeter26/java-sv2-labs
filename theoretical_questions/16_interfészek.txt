@@ -1,0 +1,21 @@
+XVI. Interfészek
+//// 1. Interfészek////
+Mit értünk interfész alatt? Milyen értelmezéseit ismered az interfész fogalomnak? Hol láttál eddig interfészeket?
+	kapcsolódási felület és leírás
+	egy rendszer azon elemeit, amelyen át a rendszerhez kapcsolódni lehet anélkül, hogy pontosan ismernénk annak belső működését.
+	pl. List
+Hogyan kell Javaban interfészt deklarálni?
+	public interface Writable {
+
+    int DEFAULT_CONTENT_SIZE = 100;
+
+    boolean write(String text);
+}
+	nem kell abstrakt és publik jelölés 
+Hol használható később egy interfész?
+Mit jelent az, hogy egy osztály implementál egy interfészt?
+Egy osztály implementálhat-e több interfészt?
+Milyen attribútumokat használhatunk interfészekben?
+Ha nem adjuk meg explicit módon, milyen módosítók szerepelnek az attribútumnál implicit módon?
+Ha nem adjuk meg explicit módon, milyen módosítók szerepelnek a metódusoknál implicit módon?
+Mit jelent interfészeknél a névütközés? Hogyan lehet kezelni?

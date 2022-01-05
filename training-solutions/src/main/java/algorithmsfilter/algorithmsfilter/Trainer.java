@@ -28,7 +28,7 @@ public class Trainer {
 
     @Override
     public String toString() {
-        return "Trainer{" +
+        return "interfaces.video.Trainer{" +
                 "name='" + name + '\'' +
                 ", yearOfBirth=" + yearOfBirth +
                 '}';

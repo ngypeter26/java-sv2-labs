@@ -11,7 +11,7 @@ public class Trainer {
 
     private List<Course> courses = new ArrayList<>();
 
-//    public Trainer(String name) {
+//    public interfaces.video.Trainer(String name) {
 //        this.name = name;
 //    }
 

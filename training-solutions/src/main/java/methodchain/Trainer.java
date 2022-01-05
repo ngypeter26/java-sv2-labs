@@ -15,11 +15,11 @@ public class Trainer {
     }
 
     // java beans szereint voidnak kell lennie, így ennek a szabványnak nem felel meg
-//    public Trainer setName(String name) {
+//    public interfaces.video.Trainer setName(String name) {
 //        this.name = name;
 //        return this; // így lácolható
 //    }
-//    public Trainer setAge(int age) {
+//    public interfaces.video.Trainer setAge(int age) {
 //        this.age = age;
 //        return this; // így lácolható
 //    }

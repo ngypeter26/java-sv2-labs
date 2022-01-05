@@ -6,13 +6,13 @@ public class Trainer {
     private int yearOfBirth;
 
     // kezdő érték adás, így minden trainernek ezek leszenk a kezdeti adatai
-//    public Trainer() {
+//    public interfaces.video.Trainer() {
 //        name = "John Doe";
 //        yearOfBirth = 1980;
 //    }
 
     //konstruktor írás
-//        public Trainer(String name, int yearOfBirth) {
+//        public interfaces.video.Trainer(String name, int yearOfBirth) {
 //        this.name = name;   // így a változós name and birth-re vonatkozik
 //        this.yearOfBirth = yearOfBirth;
 //        }

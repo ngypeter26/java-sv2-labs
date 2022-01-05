@@ -8,7 +8,7 @@ import java.util.List;
 
 public class TrainerMain {
     public static void main(String[] args) {
-//        Trainer trainer = new Trainer("John Doe");
+//        interfaces.video.Trainer trainer = new interfaces.video.Trainer("John Doe");
 //        System.out.println(trainer.getAddresses());
 //
 ////        List<Address> addresses = Arrays.asList(

@@ -18,7 +18,7 @@ public class FilterTest {
         trainers.add(new Trainer("Jim Smith",1978));
         trainers.add(new Trainer("Jane Doe",1992));
 
-//        List<Trainer> filteredTrainers = new Filters().filterByName(trainers,"Doe");
+//        List<interfaces.video.Trainer> filteredTrainers = new Filters().filterByName(trainers,"Doe");
 //        System.out.println(filteredTrainers);
 
         List<Trainer> filteredTrainers = new Filters().filterByName(trainers,"Ji");

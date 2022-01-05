@@ -6,12 +6,12 @@ public class TrainerTest {
     @Test
     public void testCreate(){
         // láncolás nélkül
-//        Trainer trainer = new Trainer();
+//        interfaces.video.Trainer trainer = new interfaces.video.Trainer();
 //        trainer.setName("John Doe");
 //        trainer.setAge(30);
 
         // láncolva
-//        Trainer trainer = new Trainer().setName("John Doe").setAge(30);
+//        interfaces.video.Trainer trainer = new interfaces.video.Trainer().setName("John Doe").setAge(30);
 
     }
 
