@@ -14,6 +14,7 @@ Hogyan kell Javaban interfészt deklarálni?
 	nem kell abstrakt és publik jelölés 
 Hol használható később egy interfész?
 Mit jelent az, hogy egy osztály implementál egy interfészt?
+	
 Egy osztály implementálhat-e több interfészt?
 Milyen attribútumokat használhatunk interfészekben?
 Ha nem adjuk meg explicit módon, milyen módosítók szerepelnek az attribútumnál implicit módon?
