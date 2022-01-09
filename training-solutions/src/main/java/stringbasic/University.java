@@ -4,16 +4,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class University {
-    private List<Student> studentList = new ArrayList<>();
+    private List<UniStudent> uniStudentList = new ArrayList<>();
 
-    public void addStudent(Student student){
-        studentList.add(student);
+    public void addStudent(UniStudent uniStudent){
+        uniStudentList.add(uniStudent);
     }
-    public boolean areEqual(Student student, Student anotherStudent){
-        String neptun1 = student.getNeptun();
-        String neptun2 = anotherStudent.getNeptun();
-        String OMId1 = student.getOMId();
-        String OMId2 = anotherStudent.getOMId();
+    public boolean areEqual(UniStudent uniStudent, UniStudent anotherUniStudent){
+        String neptun1 = uniStudent.getNeptun();
+        String neptun2 = anotherUniStudent.getNeptun();
+        String OMId1 = uniStudent.getOMId();
+        String OMId2 = anotherUniStudent.getOMId();
         if (neptun1.isEmpty()){
             return false;
         }else if (OMId1.isEmpty()) {
@@ -23,14 +23,14 @@ public class University {
         }
     }
 
-    public List<Student> getStudentList() {
-        return studentList;
+    public List<UniStudent> getStudentList() {
+        return uniStudentList;
     }
 
     @Override
     public String toString() {
         return "University{" +
-                "studentList=" + studentList +
+                "studentList=" + uniStudentList +
                 '}';
     }
 }

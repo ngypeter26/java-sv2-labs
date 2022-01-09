@@ -1,12 +1,12 @@
 package stringbasic;
 
-public class Student {
-    private Person student;
+public class UniStudent {
+    private Person person;
     private String neptun;
     private String OMId;
     private String cardNumber;
 
-    public Student(Person student, String neptun, String OMId) {
+    public UniStudent(Person student, String neptun, String OMId) {
         this.student = student;
         this.neptun = neptun;
         this.OMId = OMId;
