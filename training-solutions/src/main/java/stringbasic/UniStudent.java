@@ -1,7 +1,7 @@
 package stringbasic;
 
 public class UniStudent {
-    private Person person;
+    private Person student;
     private String neptun;
     private String OMId;
     private String cardNumber;
@@ -11,6 +11,7 @@ public class UniStudent {
         this.neptun = neptun;
         this.OMId = OMId;
     }
+
 
     public Person getStudent() {
         return student;
