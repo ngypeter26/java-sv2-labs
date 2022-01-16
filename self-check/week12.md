@@ -20,12 +20,12 @@ Ezen a héten a kollekciókkal fogtok részletesebben megismerkedni.
 * [X] List, ArrayList kontra LinkedList gyakorlati feladat
 * [X] [Set videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769617-set)
 * [X] Set gyakorlati feladat
-* [ ] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
-* [ ] Queue gyakorlati feladat
-* [ ] [Map videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769620-map)
-* [ ] Map gyakorlati feladat
-* [ ] [Autoboxing használata kollekcióknál videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769619-autoboxing-hasznalata-kollekcioknal)
-* [ ] Autoboxing használata kollekcióknál gyakorlati feladat
+* [X] [Queue videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769618-queue)
+* [X] Queue gyakorlati feladat
+* [X] [Map videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769620-map)
+* [X] Map gyakorlati feladat
+* [X] [Autoboxing használata kollekcióknál videó](https://e-learning.training360.com/courses/take/java-se-halado-koll/lessons/10769619-autoboxing-hasznalata-kollekcioknal)
+* [X] Autoboxing használata kollekcióknál gyakorlati feladat
 
 ## Műveletek kollekciókkal
 
