@@ -17,9 +17,9 @@ public class Issue {
     }
 
     public Issue(Issue issue, CopyMode copyMode) {
-        this.name = name;
-        this.time = time;
-        this.status = status;
+        this.name = issue.name;
+        this.time = issue.time;
+        this.status = issue.status;
         if (copyMode == CopyMode.WITH_COMMENTS){
             List<Comment> actualComments = new ArrayList<>();
             for (Comment c : issue.comments){
